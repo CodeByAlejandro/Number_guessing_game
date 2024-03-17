@@ -20,3 +20,10 @@ or
 ```shell
 python3 random_game.py 1 10
 ```
+
+# Uninstall
+Remove the project:
+```shell
+cd ..
+rm -rf Number_guessing_game
+```
