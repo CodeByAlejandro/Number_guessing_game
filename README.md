@@ -1,2 +1,12 @@
 # Number_guessing_game
 Random number guessing game written in Python
+
+# Installation
+Install in virtual environment using following commands:
+```shell
+git clone https://github.com/CodeByAlejandro/Portfolio.git
+cd Portfolio
+python3 -m venv .venv
+. .venv/bin/activate
+pip install -r requirements.txt
+```
